@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chandan Adhikari</h1>
+<h3 align="center">Java Full Stack Developer</h3>
 
-<!--
-**Chandan-Adhikari73/Chandan-Adhikari73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Final-year IT student
+- 💻 Passionate about **Java, Spring Boot & MERN Stack**
+- 🔥 Built real-time chat apps & REST APIs
+- 📈 Improving DSA & system design
+- 💼 Open to internships & fresher roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Backend:** Java, Spring Boot, Hibernate, REST APIs  
+**Frontend:** React, JavaScript, HTML, CSS, Tailwind  
+**Database:** MySQL  
+**Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+### 📌 Featured Projects
+🔹 **Real-Time Chat Application**  
+- WebSocket-based messaging system  
+- Tech: Spring Boot, React, Tailwind  
+
+🔹 **Recipe Finder App**  
+- Fetches live data from external APIs  
+- Tech: React, REST APIs  
+
+🔹 **Store Rating Platform**  
+- Role-based login & analytics  
+- Tech: Java, Spring Boot, MySQL  
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandan-Adhikari73&show_icons=true)
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: <your-link>
+- Email: chandan.adhikari.2013@gmail.com
