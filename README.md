@@ -1,88 +1,15 @@
-<h1 align="center">Hi 👋, I'm Chandan Adhikari</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | React</h3>
+# 💫 About Me:
+Final-year B.Tech (IT) student, passionate about building scalable backend systems and full-stack applications that solve real problems.<br><br>I enjoy working primarily with Java, Spring Boot, REST APIs, MySQL, and React, and I love taking projects from concept to deployment — backend, frontend, authentication, and integration.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chandan-adhikari/">LinkedIn</a> •
-  <a href="mailto:chandan.adhikari.2013@gmail.com">Email</a> •
-  <a href="https://github.com/Chandan-Adhikari73">GitHub</a>
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandan__adhikari__01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandan-adhikari/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Chandan__Adhikari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandan.adhikari.2013@gmail.com) 
 
-## 🚀 About Me
-I’m a **final-year IT student** and an **aspiring Java Full Stack Developer** who enjoys building **scalable backend systems** and **clean, responsive frontends**.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat-square&logo=Thymeleaf&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chandan-Adhikari73&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chandan-Adhikari73&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-Adhikari73&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔹 Strong in **Java, Spring Boot, REST APIs**
-- 🔹 Experienced with **React & Tailwind CSS**
-- 🔹 Built **real-time & data-driven applications**
-- 🔹 Focused on **clean code, performance & scalability**
-- 🔹 Actively preparing for **fresher & internship roles**
-
----
-
-## 🛠️ Tech Stack
-
-### 🔧 Backend
-- Java
-- Spring Boot
-- Spring MVC
-- Hibernate / JPA
-- RESTful APIs
-
-### 🎨 Frontend
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### 🗄️ Database
-- MySQL
-
-### 🧰 Tools & Platforms
-- Git & GitHub
-- Postman
-- VS Code
-- IntelliJ IDEA
-
----
-
-## 📌 Featured Projects
-
-### 💬 Real-Time Chat Application
-- WebSocket-based real-time messaging system
-- Join/leave rooms, timestamps, responsive UI  
-**Tech:** Spring Boot, WebSocket, React, Tailwind CSS  
-
----
-
-### 🍝 Recipe Finder Application
-- Fetches live recipes using external APIs
-- Search & filter functionality with clean UI  
-**Tech:** React, REST APIs, JavaScript  
-
----
-
----
-
-## 📂 Data Structures & Algorithms
-- Daily DSA practice in **Java**
-- Clean, well-commented solutions
-- Time & Space complexity included
-
-📌 Repo: `java-dsa-practice`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandan-Adhikari73&show_icons=true&theme=default" />
-</p>
-
----
-
-## 📫 Let’s Connect
-- 📧 Email: chandan.adhikari.2013@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/chandan-adhikari/
-- 🌱 Open to **Internship & Fresher Opportunities**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
